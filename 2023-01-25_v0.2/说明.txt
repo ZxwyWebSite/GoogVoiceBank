@@ -1,0 +1,23 @@
+# 文件夹
+A3 —— 基础采样文件
+ext —— 扩展采样文件
+GoogVoiceBank —— 声库文件夹
+log —— 编译日志
+model —— 模型数据
+origin —— 原基础采样
+VoiceBank —— Audition项目文件
+
+# 文件
+Avatar.jpg —— 原声库头像
+main.dvmtp —— DVMT项目文件
+main.dvtb ——DeepVocalToolBox项目文件
+readme.md —— 声库简介
+说明.txt —— 本文件
+
+# 二开
+声明：修改后的作品仅可自用或开源分享，禁止商用
+1.去DeepVocal官网下载DeepVocalToolBox
+2.打开main.dvtb
+3.点击Function→Build Voice Config
+4.选择Wav Location为采样文件夹，即可读取到已标记的信息
+5.然后就可以根据你自己的想法进行修改了

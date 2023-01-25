@@ -1,0 +1,135 @@
+-------------Start to build models 2023-01-25 13:52:10-------------
+
+[1/131] type=CV  pitch=A3  symbol= -a    >> OK  >  Model already exists
+[2/131] type=CV  pitch=A3  symbol= -ai    >> OK  >  Model already exists
+[3/131] type=CV  pitch=A3  symbol= -an    >> OK  >  Model already exists
+[4/131] type=CV  pitch=A3  symbol= -ang    >> OK  >  Model already exists
+[5/131] type=CV  pitch=A3  symbol= -ao    >> OK  >  Model already exists
+[6/131] type=CV  pitch=A3  symbol= a    >> OK  >  Model already exists
+[7/131] type=CV  pitch=A3  symbol= ai    >> OK  >  Model already exists
+[8/131] type=CV  pitch=A3  symbol= an    >> OK  >  Model already exists
+[9/131] type=CV  pitch=A3  symbol= ang    >> OK  >  Model already exists
+[10/131] type=CV  pitch=A3  symbol= ao    >> OK  >  Model already exists
+[11/131] type=CV  pitch=A3  symbol= ba    >> OK  >  Model already exists
+[12/131] type=CV  pitch=A3  symbol= bai    >> OK  >  Model already exists
+[13/131] type=CV  pitch=A3  symbol= ban    >> OK  >  Model already exists
+[14/131] type=CV  pitch=A3  symbol= bang    >> OK  >  Model already exists
+[15/131] type=CV  pitch=A3  symbol= bao    >> OK  >  Model already exists
+[16/131] type=CV  pitch=A3  symbol= bei    >> OK  >  Model already exists
+[17/131] type=CV  pitch=A3  symbol= ben    >> OK  >  Model already exists
+[18/131] type=CV  pitch=A3  symbol= beng    >> OK  >  Model already exists
+[19/131] type=CV  pitch=A3  symbol= bi    >> OK  >  Model already exists
+[20/131] type=CV  pitch=A3  symbol= bian    >> OK  >  Model already exists
+[21/131] type=CV  pitch=A3  symbol= biao    >> OK  >  Model already exists
+[22/131] type=CV  pitch=A3  symbol= bie    >> OK  >  Model already exists
+[23/131] type=CV  pitch=A3  symbol= bin    >> OK  >  Model already exists
+[24/131] type=CV  pitch=A3  symbol= bing    >> OK  >  Model already exists
+[25/131] type=CV  pitch=A3  symbol= bo    >> OK  >  Model already exists
+[26/131] type=CV  pitch=A3  symbol= bu    >> OK  >  Model already exists
+[27/131] type=CV  pitch=A3  symbol= ca    >> OK  >  Model already exists
+[28/131] type=CV  pitch=A3  symbol= cai    >> OK  >  Model already exists
+[29/131] type=CV  pitch=A3  symbol= can    >> OK  >  Model already exists
+[30/131] type=CV  pitch=A3  symbol= cang    >> OK  >  Model already exists
+[31/131] type=CV  pitch=A3  symbol= cao    >> OK  >  Model already exists
+[32/131] type=CV  pitch=A3  symbol= ce    >> OK  >  Model already exists
+[33/131] type=CV  pitch=A3  symbol= cen    >> OK  >  Model already exists
+[34/131] type=CV  pitch=A3  symbol= ceng    >> OK  >  Model already exists
+[35/131] type=CV  pitch=A3  symbol= cha    >> OK  >  Model already exists
+[36/131] type=CV  pitch=A3  symbol= chai    >> OK  >  Model already exists
+[37/131] type=CV  pitch=A3  symbol= chan    >> OK  >  Model already exists
+[38/131] type=CV  pitch=A3  symbol= chang    >> OK  >  Model already exists
+[39/131] type=CV  pitch=A3  symbol= chao    >> OK  >  Model already exists
+[40/131] type=CV  pitch=A3  symbol= che    >> OK  >  Model already exists
+[41/131] type=CV  pitch=A3  symbol= chen    >> OK  >  Model already exists
+[42/131] type=CV  pitch=A3  symbol= cheng    >> OK  >  Model already exists
+[43/131] type=CV  pitch=A3  symbol= chi    >> OK  >  Model already exists
+[44/131] type=CV  pitch=A3  symbol= chong    >> OK  >  Model already exists
+[45/131] type=CV  pitch=A3  symbol= chou    >> OK  >  Model already exists
+[46/131] type=CV  pitch=A3  symbol= chu    >> .Error  >   Unvoiced part exists in vowel.
+[47/131] type=CV  pitch=A3  symbol= chuai    >> OK  >  Model already exists
+[48/131] type=CV  pitch=A3  symbol= chuan    >> OK  >  Model already exists
+[49/131] type=CV  pitch=A3  symbol= chuang    >> OK  >  Model already exists
+[50/131] type=CV  pitch=A3  symbol= chui    >> OK  >  Model already exists
+[51/131] type=CV  pitch=A3  symbol= chun    >> OK  >  Model already exists
+[52/131] type=CV  pitch=A3  symbol= chuo    >> OK  >  Model already exists
+[53/131] type=CV  pitch=A3  symbol= ci    >> OK  >  Model already exists
+[54/131] type=CV  pitch=A3  symbol= cong    >> OK  >  Model already exists
+[55/131] type=CV  pitch=A3  symbol= cou    >> OK  >  Model already exists
+[56/131] type=CV  pitch=A3  symbol= cu    >> OK  >  Model already exists
+[57/131] type=CV  pitch=A3  symbol= cuan    >> OK  >  Model already exists
+[58/131] type=CV  pitch=A3  symbol= cui    >> OK  >  Model already exists
+[59/131] type=CV  pitch=A3  symbol= cun    >> OK  >  Model already exists
+[60/131] type=CV  pitch=A3  symbol= cuo    >> OK  >  Model already exists
+[61/131] type=CV  pitch=A3  symbol= da    >> OK  >  Model already exists
+[62/131] type=CV  pitch=A3  symbol= dai    >> OK  >  Model already exists
+[63/131] type=CV  pitch=A3  symbol= dan    >> OK  >  Model already exists
+[64/131] type=CV  pitch=A3  symbol= dang    >> OK  >  Model already exists
+[65/131] type=CV  pitch=A3  symbol= dao    >> OK  >  Model already exists
+[66/131] type=CV  pitch=A3  symbol= de    >> OK  >  Model already exists
+[67/131] type=CV  pitch=A3  symbol= deng    >> OK  >  Model already exists
+[68/131] type=CV  pitch=A3  symbol= di    >> OK  >  Model already exists
+[69/131] type=CV  pitch=A3  symbol= dian    >> OK  >  Model already exists
+[70/131] type=CV  pitch=A3  symbol= diao    >> OK  >  Model already exists
+[71/131] type=CV  pitch=A3  symbol= die    >> OK  >  Model already exists
+[72/131] type=CV  pitch=A3  symbol= ding    >> OK  >  Model already exists
+[73/131] type=CV  pitch=A3  symbol= diu    >> OK  >  Model already exists
+[74/131] type=CV  pitch=A3  symbol= dong    >> OK  >  Model already exists
+[75/131] type=CV  pitch=A3  symbol= dou    >> OK  >  Model already exists
+[76/131] type=CV  pitch=A3  symbol= du    >> ..Error  >   Unvoiced part exists in vowel.
+[77/131] type=CV  pitch=A3  symbol= duan    >> OK  >  Model already exists
+[78/131] type=CV  pitch=A3  symbol= dui    >> OK  >  Model already exists
+[79/131] type=CV  pitch=A3  symbol= dun    >> OK  >  Model already exists
+[80/131] type=CV  pitch=A3  symbol= duo    >> OK  >  Model already exists
+[81/131] type=CV  pitch=A3  symbol= e    >> OK  >  Model already exists
+[82/131] type=CV  pitch=A3  symbol= ei    >> OK  >  Model already exists
+[83/131] type=CV  pitch=A3  symbol= en    >> OK  >  Model already exists
+[84/131] type=CV  pitch=A3  symbol= er    >> OK  >  Model already exists
+[85/131] type=CV  pitch=A3  symbol= fa    >> OK  >  Model already exists
+[86/131] type=CV  pitch=A3  symbol= fan    >> OK  >  Model already exists
+[87/131] type=CV  pitch=A3  symbol= fang    >> OK  >  Model already exists
+[88/131] type=CV  pitch=A3  symbol= fei    >> OK  >  Model already exists
+[89/131] type=CV  pitch=A3  symbol= fen    >> OK  >  Model already exists
+[90/131] type=CV  pitch=A3  symbol= feng    >> OK  >  Model already exists
+[91/131] type=CV  pitch=A3  symbol= fo    >> OK  >  Model already exists
+[92/131] type=CV  pitch=A3  symbol= fou    >> OK  >  Model already exists
+[93/131] type=CV  pitch=A3  symbol= fu    >> OK  >  Model already exists
+[94/131] type=CV  pitch=A3  symbol= ga    >> OK  >  Model already exists
+[95/131] type=CV  pitch=A3  symbol= gai    >> .OK 
+[96/131] type=CV  pitch=A3  symbol= gan    >> .OK 
+[97/131] type=CV  pitch=A3  symbol= gang    >> .OK 
+[98/131] type=CV  pitch=A3  symbol= gao    >> .OK 
+[99/131] type=CV  pitch=A3  symbol= ge    >> ..OK 
+[100/131] type=CV  pitch=A3  symbol= gei    >> .OK 
+[101/131] type=CV  pitch=A3  symbol= gen    >> .OK 
+[102/131] type=CV  pitch=A3  symbol= geng    >> .OK 
+[103/131] type=CV  pitch=A3  symbol= gong    >> .OK 
+[104/131] type=CV  pitch=A3  symbol= gou    >> .OK 
+[105/131] type=CV  pitch=A3  symbol= gu    >> ..Error  >   Unvoiced part exists in vowel.
+[106/131] type=CV  pitch=A3  symbol= gua    >> ...OK 
+[107/131] type=CV  pitch=A3  symbol= guai    >> ..OK 
+[108/131] type=CV  pitch=A3  symbol= guan    >> .OK 
+[109/131] type=CV  pitch=A3  symbol= guang    >> .OK 
+[110/131] type=CV  pitch=A3  symbol= gui    >> .OK 
+[111/131] type=CV  pitch=A3  symbol= gun    >> .OK 
+[112/131] type=CV  pitch=A3  symbol= guo    >> ..OK 
+[113/131] type=CV  pitch=A3  symbol= ha    >> .OK 
+[114/131] type=CV  pitch=A3  symbol= hai    >> .OK 
+[115/131] type=CV  pitch=A3  symbol= han    >> ..OK 
+[116/131] type=CV  pitch=A3  symbol= hang    >> .OK 
+[117/131] type=CV  pitch=A3  symbol= hao    >> ..OK 
+[118/131] type=CV  pitch=A3  symbol= he    >> ..OK 
+[119/131] type=CV  pitch=A3  symbol= hei    >> .OK 
+[120/131] type=CV  pitch=A3  symbol= hen    >> .OK 
+[121/131] type=CV  pitch=A3  symbol= heng    >> .OK 
+[122/131] type=CV  pitch=A3  symbol= hong    >> .Error  >   Unvoiced part exists in vowel.
+[123/131] type=CV  pitch=A3  symbol= hou    >> .OK 
+[124/131] type=CV  pitch=A3  symbol= hu    >> .Error  >   Unvoiced part exists in vowel.
+[125/131] type=CV  pitch=A3  symbol= hua    >> .OK 
+[126/131] type=CV  pitch=A3  symbol= huai    >> ..OK 
+[127/131] type=INDIE  pitch=A3  symbol= br1    >> OK  >  Model already exists
+[128/131] type=INDIE  pitch=A3  symbol= br2    >> OK  >  Model already exists
+[129/131] type=INDIE  pitch=A3  symbol= br3    >> OK  >  Model already exists
+[130/131] type=INDIE  pitch=A3  symbol= br4    >> OK  >  Model already exists
+[131/131] type=INDIE  pitch=A3  symbol= br5    >> OK  >  Model already exists
+
+-------------End 2023-01-25 13:53:13------------
